@@ -1,3 +1,5 @@
+ini ada lah kunci.
+
 import pygame
 import time
 from random import randint
